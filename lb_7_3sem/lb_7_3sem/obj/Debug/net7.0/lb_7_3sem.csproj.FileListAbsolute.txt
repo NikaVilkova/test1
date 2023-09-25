@@ -1,0 +1,14 @@
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\lb_7_3sem.GeneratedMSBuildEditorConfig.editorconfig
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\lb_7_3sem.AssemblyInfoInputs.cache
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\lb_7_3sem.AssemblyInfo.cs
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\lb_7_3sem.csproj.CoreCompileInputs.cache
+A:\pr\lb_7_3sem\lb_7_3sem\bin\Debug\net7.0\lb_7_3sem.exe
+A:\pr\lb_7_3sem\lb_7_3sem\bin\Debug\net7.0\lb_7_3sem.deps.json
+A:\pr\lb_7_3sem\lb_7_3sem\bin\Debug\net7.0\lb_7_3sem.runtimeconfig.json
+A:\pr\lb_7_3sem\lb_7_3sem\bin\Debug\net7.0\lb_7_3sem.dll
+A:\pr\lb_7_3sem\lb_7_3sem\bin\Debug\net7.0\lb_7_3sem.pdb
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\lb_7_3sem.dll
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\refint\lb_7_3sem.dll
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\lb_7_3sem.pdb
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\lb_7_3sem.genruntimeconfig.cache
+A:\pr\lb_7_3sem\lb_7_3sem\obj\Debug\net7.0\ref\lb_7_3sem.dll
